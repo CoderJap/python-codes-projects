@@ -1,0 +1,21 @@
+language_codes = {
+    "english": "en",
+    "spanish": "es",
+    "french": "fr",
+    "german": "de",
+    "chinese": "zh-cn",
+    "japanese": "ja",
+    "korean": "ko",
+    "italian": "it",
+    "portuguese": "pt",
+    "russian": "ru",
+    "hindi": "hi",
+    "arabic": "ar",
+    "dutch": "nl",
+    "swedish": "sv",
+    "turkish": "tr",
+    "polish": "pl",
+    "danish": "da",
+    "finnish": "fi",
+    "greek": "el"
+}
